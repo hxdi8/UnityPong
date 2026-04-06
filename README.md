@@ -30,7 +30,7 @@ Move Down - S / ↓
 
 ## 📦 Installation
 Clone the repository:
-1. git clone https://github.com/hxdi8/UnityPong.git
+1. git clone `https://github.com/hxdi8/UnityPong.git`
 2. Open the project in Unity Hub
 3. Click Play ▶️
 
