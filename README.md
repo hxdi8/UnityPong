@@ -1,14 +1,14 @@
 # UnityPong
 A polished remake of the classic Pong game built using Unity, featuring smooth gameplay, clean UI, and immersive audio.
 
-# 🚀 Features
+## 🚀 Features
 - 🕹️ Classic Pong gameplay
 - 🎵 Background music and sound effects
 - 🧭 Interactive menu system
 - ⚡ Smooth ball and paddle mechanics
 - 🎯 Score tracking system
 
-# 🛠️ Upcoming Features
+## 🛠️ Upcoming Features
 - 🤖 AI opponent with difficulty levels
 - ✨ Visual effects (particle effects, trails, screen feedback)
 
@@ -16,7 +16,7 @@ A polished remake of the classic Pong game built using Unity, featuring smooth g
 Move Up - W / ↑
 Move Down - S / ↓
 
-# 📸 Screenshots
+## 📸 Screenshots
 
 <img width="1814" height="1010" alt="image" src="https://github.com/user-attachments/assets/023bf0a7-0669-45a6-bc93-ee87be7686ea" />
 
@@ -24,16 +24,16 @@ Move Down - S / ↓
 
 <img width="1816" height="1012" alt="image" src="https://github.com/user-attachments/assets/35417297-c98f-43a7-9423-b264eb285042" />
 
-# 🧰 Built With
+## 🧰 Built With
 - Unity (Game Engine)
 - C# (Scripting)
 
-# 📦 Installation
+## 📦 Installation
 Clone the repository:
 1. git clone https://github.com/hxdi8/UnityPong.git
 2. Open the project in Unity Hub
 3. Click Play ▶️
 
-# 🤝 Contributing
+## 🤝 Contributing
 This is a personal project, but suggestions and feedback are welcome!
 
