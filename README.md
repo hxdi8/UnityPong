@@ -12,7 +12,7 @@ A polished remake of the classic Pong game built using Unity, featuring smooth g
 - 🤖 AI opponent with difficulty levels
 - ✨ Visual effects (particle effects, trails, screen feedback)
 
-# 🎮 Controls
+## 🎮 Controls
 Move Up - W / ↑
 Move Down - S / ↓
 
